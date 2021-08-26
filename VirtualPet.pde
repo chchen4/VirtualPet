@@ -1,8 +1,13 @@
+size (400,400);
+circle(200,200,200);
 
-void setup(){
-  //some of your code here
-}
-void draw(){
-  //more of your code here
-}
+fill (247,255,26);
+ellipse (200, 230, 60, 10);
 
+fill (0,0,0);
+circle (160,200, 20);
+circle (240,200,20);
+
+fill (16,124,2);
+ellipse (200,100, 150, 50);
+ 
